@@ -1,1 +1,8 @@
 ;aiu;
+[Update]
+Name=Pronto Printer Agent
+URL=https://drive.google.com/uc?export=download&id=1IVDP7imVhZDDIDucqX9Dr_WeNiR7xuzB
+Size=18709
+Version=0.0.2
+ServerFileName=Pronto Printer Agent v0.0.2.msi
+Description=Set stage constants.

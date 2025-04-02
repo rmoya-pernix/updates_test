@@ -1,8 +1,10 @@
 ;aiu;
-[Update]
+[pronto-printer-agent-0.0.3]
 Name=Pronto Printer Agent
-URL=https://drive.google.com/uc?export=download&id=1IVDP7imVhZDDIDucqX9Dr_WeNiR7xuzB
+URL=https://drive.google.com/uc?export=download&id=1WFsyAS-p0W_KWqq9MCKU1KCp0dp2KZlx
 Size=18709
-Version=0.0.2
-ServerFileName=Pronto Printer Agent v0.0.2.msi
-Description=Set stage constants.
+Version=0.0.3
+FilePath=[APPDIR]\bin\pronto-printer-agent.exe
+RegistryKey=HKLM\SOFTWARE\Pronto CX, Inc.\Pronto Printer Agent
+RegistryValue=Version
+Description=New version.

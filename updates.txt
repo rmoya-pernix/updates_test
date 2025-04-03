@@ -1,10 +1,10 @@
 ;aiu;
 
-[pronto-printer-agent-0.0.3]
-Name=Pronto Printer Agent 0.0.3
-URL=https://github.com/rmoya-pernix/updates_test/raw/refs/heads/main/Pronto%20Printer%20Agent%20v0.0.3.msi
+[pronto-printer-agent-0.0.4]
+Name=Pronto Printer Agent 0.0.4
+URL=https://github.com/rmoya-pernix/updates_test/raw/refs/heads/main/Pronto%20Printer%20Agent%20v0.0.4.msi
 Size=19157504
-ServerFileName=Pronto%20Printer%20Agent%20v0.0.3.msi
+ServerFileName=Pronto%20Printer%20Agent%20v0.0.4.msi
 RegistryKey=HKUD\SOFTWARE\Pronto CX, Inc.\Pronto Printer Agent\Version
-Version=0.0.3
+Version=0.0.4
 Description=This is for testing purposes.

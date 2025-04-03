@@ -1,10 +1,10 @@
 ;aiu;
 
 [Pronto Printer Agent]
-Name=Pronto Printer Agent 0.0.3
-URL=https://drive.google.com/uc?export=download&id=1WFsyAS-p0W_KWqq9MCKU1KCp0dp2KZlx
-Size=18709
-ServerFileName=Pronto Printer Agent v0.0.3.msi
+Name=Pronto Printer Agent 0.0.4
+URL=https://drive.google.com/uc?export=download&id=1by5FrFTA-8hbq3AZ-a2iM4dUNC9pYny8
+Size=19157504
+ServerFileName=Pronto Printer Agent v0.0.4.msi
 RegistryKey=HKLM\SOFTWARE\Pronto CX, Inc\Pronto Printer Agent\Version
-Version=0.0.3
+Version=0.0.4
 Description=This is for testing purposes.

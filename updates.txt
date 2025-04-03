@@ -2,7 +2,7 @@
 
 [Pronto Printer Agent]
 Name=Pronto Printer Agent 0.0.4
-URL=https://drive.google.com/uc?export=download&id=1by5FrFTA-8hbq3AZ-a2iM4dUNC9pYny8
+URL=https://github.com/rmoya-pernix/updates_test/raw/refs/heads/main/Pronto%20Printer%20Agent%20v0.0.4.msi
 Size=19157504
 ServerFileName=Pronto Printer Agent v0.0.4.msi
 RegistryKey=HKLM\SOFTWARE\Pronto CX, Inc\Pronto Printer Agent\Version

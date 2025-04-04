@@ -1,17 +1,15 @@
 ;aiu;
 
-[Update]
-Name = Pronto Printer Agent v0.0.3
-ProductVersion = 0.0.3
-URL = https://github.com/rmoya-pernix/updates_test/raw/refs/heads/main/Pronto%20Printer%20Agent%20v0.0.3.msi
-Size = 19157504
-SHA256 = 959D212C0445C9D87527241FAB32D35C1948B8A536F0ADE24AFBA001D3FD2293
-MD5 = f9e449ee84316531af7536e036415918
-ServerFileName = Pronto Printer Agent v0.0.3.msi
+[Update v0.0.4]
+Name = Pronto Printer Agent v0.0.4
+ProductVersion = 0.0.4
+URL = https://github.com/rmoya-pernix/updates_test/raw/refs/heads/main/Pronto%20Printer%20Agent%20v0.0.4.msi
+Size = 19159552
+SHA256 = A51BDD2DAEA4F6A8AF91FAFCCA0560CAB644A9B2E9B6C94DBC27E88966E112B1
+MD5 = 08e2eb638297df2f45ecfe0bc983ae88
+ServerFileName = Pronto Printer Agent v0.0.4.msi
 Flags = Sys64|Os64|NoRedetect|OsArm64
-RegistryKey = HKLM\Software\Pronto CX, Inc.\Pronto Printer Agent\Version
-Version = 0.0.3
-Description = New version to test automatic updates
-Feature = None
-Enhancement = None
-BugFix = None
+RegistryKey = HKUD\Software\Pronto CX, Inc.\Pronto Printer Agent\Version
+Version = 0.0.4
+Description = TESTING AUTOUPDATES
+
